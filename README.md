@@ -1,10 +1,10 @@
 # Generador de Contraseñas con React
 
-Pagina web responsive con animacion de particulas de ParticlesJS.
+Pagina web que genera contraseñas semi-aleatorias, un proyecto completo de React.
 
 - Ver Pagina: [Link](https://sergio-ivan-melgarejo.github.io/react-generador-password/)
 
-![Sitio web creado con ParticlesJS](./screencapture.png)
+![Sitio web creado con React](./screencapture.png)
 
 Del taller de: [FalconMasters](http://www.falconmasters.com)
 
