@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-generador-password/static/css/main.f7b7f5fd.css",
+    "main.js": "/react-generador-password/static/js/main.b0b940d0.js",
+    "static/media/logo.svg": "/react-generador-password/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-generador-password/index.html",
+    "main.f7b7f5fd.css.map": "/react-generador-password/static/css/main.f7b7f5fd.css.map",
+    "main.b0b940d0.js.map": "/react-generador-password/static/js/main.b0b940d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b7f5fd.css",
+    "static/js/main.b0b940d0.js"
+  ]
+}
